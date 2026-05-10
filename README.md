@@ -9,3 +9,5 @@
 
   Run `npm run dev` to start the development server.
   
+  Run 'npm run build' to push the code to production.
+  
